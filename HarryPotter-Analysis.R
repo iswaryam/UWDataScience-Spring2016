@@ -2,7 +2,7 @@
 # Read README.md for documentation.
 # AUTHOR: Iswarya Murali
 # PURPOSE : Main Entry Point File. Reads the text of the 7 books and loops through all functions for analysis.
-# Refer to README.md for more details.
+# Refer to README file for more details.
 ##############################################################################################################
 
 rm(list=ls())
