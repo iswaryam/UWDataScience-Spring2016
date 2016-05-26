@@ -1,0 +1,68 @@
+2016-05-23 16:09:06 INFO:hp_logger:remove_stopwords Processing Time : 0.0937600135803223
+2016-05-23 16:09:06 INFO:hp_logger:remove_punctuation Processing Time : 0.015625
+2016-05-23 16:09:07 INFO:hp_logger:replace_alternate_nicknames Processing Time : 0.142661094665527
+2016-05-23 16:09:07 INFO:hp_logger:get_character_positions Processing Time : 0.111225128173828
+2016-05-23 16:09:07 INFO:hp_logger:create_characters_matrix Processing Time : 0.0312559604644775
+2016-05-23 16:09:07 INFO:hp_logger:plot_houses Processing Time : 0.0238990783691406
+2016-05-23 16:09:08 INFO:hp_logger:plot_word_cloud Processing Time : 0.800626039505005
+2016-05-23 16:09:08 INFO:hp_logger:plot_spells Processing Time : 0.0256810188293457
+2016-05-23 16:09:08 INFO:hp_logger:remove_stopwords Processing Time : 0.0719418525695801
+2016-05-23 16:09:08 INFO:hp_logger:remove_punctuation Processing Time : 0.0156271457672119
+2016-05-23 16:09:08 INFO:hp_logger:replace_alternate_nicknames Processing Time : 0.147050142288208
+2016-05-23 16:09:08 INFO:hp_logger:get_character_positions Processing Time : 0.102123975753784
+2016-05-23 16:09:08 INFO:hp_logger:create_characters_matrix Processing Time : 0.0312538146972656
+2016-05-23 16:09:08 INFO:hp_logger:plot_houses Processing Time : 0
+2016-05-23 16:09:09 INFO:hp_logger:plot_word_cloud Processing Time : 0.760823965072632
+2016-05-23 16:09:09 INFO:hp_logger:plot_spells Processing Time : 0.0390257835388184
+2016-05-23 16:09:09 INFO:hp_logger:remove_stopwords Processing Time : 0.104401111602783
+2016-05-23 16:09:09 INFO:hp_logger:remove_punctuation Processing Time : 0.0156240463256836
+2016-05-23 16:09:09 INFO:hp_logger:replace_alternate_nicknames Processing Time : 0.195505857467651
+2016-05-23 16:09:09 INFO:hp_logger:get_character_positions Processing Time : 0.118427038192749
+2016-05-23 16:09:09 INFO:hp_logger:create_characters_matrix Processing Time : 0.0633649826049805
+2016-05-23 16:09:09 INFO:hp_logger:plot_houses Processing Time : 0
+2016-05-23 16:09:10 INFO:hp_logger:plot_word_cloud Processing Time : 0.895222187042236
+2016-05-23 16:09:10 INFO:hp_logger:plot_spells Processing Time : 0.0423319339752197
+2016-05-23 16:09:11 INFO:hp_logger:remove_stopwords Processing Time : 0.186311960220337
+2016-05-23 16:09:11 INFO:hp_logger:remove_punctuation Processing Time : 0.0312530994415283
+2016-05-23 16:09:11 INFO:hp_logger:replace_alternate_nicknames Processing Time : 0.2605140209198
+2016-05-23 16:09:11 INFO:hp_logger:get_character_positions Processing Time : 0.166311979293823
+2016-05-23 16:09:11 INFO:hp_logger:create_characters_matrix Processing Time : 0.0593268871307373
+2016-05-23 16:09:11 INFO:hp_logger:plot_houses Processing Time : 0
+2016-05-23 16:09:12 INFO:hp_logger:plot_word_cloud Processing Time : 1.07741904258728
+2016-05-23 16:09:12 INFO:hp_logger:plot_spells Processing Time : 0.0420680046081543
+2016-05-23 16:09:13 INFO:hp_logger:remove_stopwords Processing Time : 0.402143955230713
+2016-05-23 16:09:13 INFO:hp_logger:remove_punctuation Processing Time : 0.10181713104248
+2016-05-23 16:09:13 INFO:hp_logger:replace_alternate_nicknames Processing Time : 0.454915046691895
+2016-05-23 16:09:14 INFO:hp_logger:get_character_positions Processing Time : 0.208821058273315
+2016-05-23 16:09:14 INFO:hp_logger:create_characters_matrix Processing Time : 0.0815398693084717
+2016-05-23 16:09:14 INFO:hp_logger:plot_houses Processing Time : 0.0156271457672119
+2016-05-23 16:09:15 INFO:hp_logger:plot_word_cloud Processing Time : 1.17199897766113
+2016-05-23 16:09:15 INFO:hp_logger:plot_spells Processing Time : 0.0551011562347412
+2016-05-23 16:09:15 INFO:hp_logger:remove_stopwords Processing Time : 0.192291975021362
+2016-05-23 16:09:15 INFO:hp_logger:remove_punctuation Processing Time : 0.0528678894042969
+2016-05-23 16:09:16 INFO:hp_logger:replace_alternate_nicknames Processing Time : 0.340702056884766
+2016-05-23 16:09:16 INFO:hp_logger:get_character_positions Processing Time : 0.175205945968628
+2016-05-23 16:09:16 INFO:hp_logger:create_characters_matrix Processing Time : 0.0973200798034668
+2016-05-23 16:09:16 INFO:hp_logger:plot_houses Processing Time : 0.0156240463256836
+2016-05-23 16:09:18 INFO:hp_logger:plot_word_cloud Processing Time : 1.39543199539185
+2016-05-23 16:09:18 INFO:hp_logger:plot_spells Processing Time : 0.054617166519165
+2016-05-23 16:09:18 INFO:hp_logger:remove_stopwords Processing Time : 0.221904039382935
+2016-05-23 16:09:18 INFO:hp_logger:remove_punctuation Processing Time : 0.0312519073486328
+2016-05-23 16:09:18 INFO:hp_logger:replace_alternate_nicknames Processing Time : 0.35080099105835
+2016-05-23 16:09:18 INFO:hp_logger:get_character_positions Processing Time : 0.200719118118286
+2016-05-23 16:09:19 INFO:hp_logger:create_characters_matrix Processing Time : 0.127013921737671
+2016-05-23 16:09:19 INFO:hp_logger:plot_houses Processing Time : 0
+2016-05-23 16:09:21 INFO:hp_logger:plot_word_cloud Processing Time : 1.89237999916077
+2016-05-23 16:09:21 INFO:hp_logger:plot_spells Processing Time : 0.0659370422363281
+2016-05-23 16:09:21 INFO:hp_logger:test_remove_stopword 
+Expected Value: Hamlet question 
+Test Returned: Hamlet question
+2016-05-23 16:09:21 INFO:hp_logger:test_remove_stopword unit test passed!
+2016-05-23 16:09:21 INFO:hp_logger:test_remove_punctuation 
+Expected Value: All the world's a stage and all the men and women merely players 
+Test Returned: All the world's a stage and all the men and women merely players
+2016-05-23 16:09:21 INFO:hp_logger:test_remove_punctuation unit test passed!
+2016-05-23 16:09:21 INFO:hp_logger:test_replace_alternate_nicknames 
+Expected Value: Harry and Voldemort. 
+Test Returned: Harry and Voldemort.
+2016-05-23 16:09:21 INFO:hp_logger:test_replace_alternate_nicknames unit test passed!

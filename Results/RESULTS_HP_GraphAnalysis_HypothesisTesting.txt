@@ -1,0 +1,112 @@
+
+	 ********* 1 - Philosophers Stone *********
+	 GRAPH ANALYSIS 
+	 Mean Degree: 5.6 
+	 Highest Degree Centrality: Harry 
+	 Strongest Relationship: Harry and Hermione 
+	 Highest EigenVector Centrality: Harry 
+	 Highest Betweennes Centrality: Harry 
+
+	 HYPOTHESIS - DO THE EDGE WEIGHTS FOLLOW POWER LAW?
+	 P-Value for Power Law Fit 0.999994837624036 . Failed to Reject Null Hypothesis; Edge Weights fit Power Law.
+
+	 HYPOTHESIS - ARE THE 4 HOUSES REPRESENTED EQUALLY PER CHI SQUARED GOODNESS OF FIT TEST?
+	 P-Value for Chi Squared Test: 0.00250040714582315 . Reject Null Hypothesis; the Houses are not equally represented. 
+	 *****END OF ANALYSIS*****
+
+
+	 ********* 2 - Chamber of Secrets *********
+	 GRAPH ANALYSIS 
+	 Mean Degree: 4.58823529411765 
+	 Highest Degree Centrality: Harry 
+	 Strongest Relationship: Harry and Hermione 
+	 Highest EigenVector Centrality: Harry 
+	 Highest Betweennes Centrality: Harry 
+
+	 HYPOTHESIS - DO THE EDGE WEIGHTS FOLLOW POWER LAW?
+	 P-Value for Power Law Fit 0.994449783387239 . Failed to Reject Null Hypothesis; Edge Weights fit Power Law.
+
+	 HYPOTHESIS - ARE THE 4 HOUSES REPRESENTED EQUALLY PER CHI SQUARED GOODNESS OF FIT TEST?
+	 P-Value for Chi Squared Test: 0.00108837069916568 . Reject Null Hypothesis; the Houses are not equally represented. 
+	 *****END OF ANALYSIS*****
+
+
+	 ********* 3 - Prisoner of Azkaban *********
+	 GRAPH ANALYSIS 
+	 Mean Degree: 6.22222222222222 
+	 Highest Degree Centrality: Harry 
+	 Strongest Relationship: Harry and Ron 
+	 Highest EigenVector Centrality: Harry 
+	 Highest Betweennes Centrality: Hermione 
+
+	 HYPOTHESIS - DO THE EDGE WEIGHTS FOLLOW POWER LAW?
+	 P-Value for Power Law Fit 0.895405892485745 . Failed to Reject Null Hypothesis; Edge Weights fit Power Law.
+
+	 HYPOTHESIS - ARE THE 4 HOUSES REPRESENTED EQUALLY PER CHI SQUARED GOODNESS OF FIT TEST?
+	 P-Value for Chi Squared Test: 0.0523751522180443 . Failed to Reject Null Hypothesis; the Houses are equally represented. 
+	 *****END OF ANALYSIS*****
+
+
+	 ********* 4 - Goblet of Fire *********
+	 GRAPH ANALYSIS 
+	 Mean Degree: 7.2 
+	 Highest Degree Centrality: Harry 
+	 Strongest Relationship: Harry and Hermione 
+	 Highest EigenVector Centrality: Harry 
+	 Highest Betweennes Centrality: Dumbledore 
+
+	 HYPOTHESIS - DO THE EDGE WEIGHTS FOLLOW POWER LAW?
+	 P-Value for Power Law Fit 0.999998639826713 . Failed to Reject Null Hypothesis; Edge Weights fit Power Law.
+
+	 HYPOTHESIS - ARE THE 4 HOUSES REPRESENTED EQUALLY PER CHI SQUARED GOODNESS OF FIT TEST?
+	 P-Value for Chi Squared Test: 0.59273340688335 . Failed to Reject Null Hypothesis; the Houses are equally represented. 
+	 *****END OF ANALYSIS*****
+
+
+	 ********* 5 - Order of the Phoenix *********
+	 GRAPH ANALYSIS 
+	 Mean Degree: 7.80952380952381 
+	 Highest Degree Centrality: Harry 
+	 Strongest Relationship: Harry and Ron 
+	 Highest EigenVector Centrality: Harry 
+	 Highest Betweennes Centrality: Dumbledore 
+
+	 HYPOTHESIS - DO THE EDGE WEIGHTS FOLLOW POWER LAW?
+	 P-Value for Power Law Fit 0.928332635775458 . Failed to Reject Null Hypothesis; Edge Weights fit Power Law.
+
+	 HYPOTHESIS - ARE THE 4 HOUSES REPRESENTED EQUALLY PER CHI SQUARED GOODNESS OF FIT TEST?
+	 P-Value for Chi Squared Test: 0.477396172245043 . Failed to Reject Null Hypothesis; the Houses are equally represented. 
+	 *****END OF ANALYSIS*****
+
+
+	 ********* 6 - Half Blood Prince *********
+	 GRAPH ANALYSIS 
+	 Mean Degree: 6.09523809523809 
+	 Highest Degree Centrality: Harry 
+	 Strongest Relationship: Harry and Dumbledore 
+	 Highest EigenVector Centrality: Harry 
+	 Highest Betweennes Centrality: Ron 
+
+	 HYPOTHESIS - DO THE EDGE WEIGHTS FOLLOW POWER LAW?
+	 P-Value for Power Law Fit 0.69016908473532 . Failed to Reject Null Hypothesis; Edge Weights fit Power Law.
+
+	 HYPOTHESIS - ARE THE 4 HOUSES REPRESENTED EQUALLY PER CHI SQUARED GOODNESS OF FIT TEST?
+	 P-Value for Chi Squared Test: 0.384970141115624 . Failed to Reject Null Hypothesis; the Houses are equally represented. 
+	 *****END OF ANALYSIS*****
+
+
+	 ********* 7 - Deathly Hallows *********
+	 GRAPH ANALYSIS 
+	 Mean Degree: 5.61904761904762 
+	 Highest Degree Centrality: Harry 
+	 Strongest Relationship: Harry and Hermione 
+	 Highest EigenVector Centrality: Harry 
+	 Highest Betweennes Centrality: Ron 
+
+	 HYPOTHESIS - DO THE EDGE WEIGHTS FOLLOW POWER LAW?
+	 P-Value for Power Law Fit 0.999942000079163 . Failed to Reject Null Hypothesis; Edge Weights fit Power Law.
+
+	 HYPOTHESIS - ARE THE 4 HOUSES REPRESENTED EQUALLY PER CHI SQUARED GOODNESS OF FIT TEST?
+	 P-Value for Chi Squared Test: 0.0177508883758591 . Reject Null Hypothesis; the Houses are not equally represented. 
+	 *****END OF ANALYSIS*****
+
