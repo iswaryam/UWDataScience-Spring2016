@@ -167,8 +167,8 @@ plot_social_network = function (hp_text, graph_title='Harry Potter', ignore_disc
     {hp_graph <- delete.vertices(hp_graph, which(degree(hp_graph)==0))}
   
   plot.igraph(hp_graph,vertex.label=V(hp_graph)$name,layout=layout.fruchterman.reingold(hp_graph), 
-              edge.color="lightblue",edge.width=E(hp_graph)$weight/50,
-              vertex.label.font=2, vertex.label.color='Dark Green', 
+              edge.color="orangered",edge.width=E(hp_graph)$weight/5,
+              vertex.label.font=2, vertex.label.color='deepskyblue4', 
               vertex.label.cex=0.85,
               vertex.label.family='sans', vertex.color=NA, vertex.frame.color=NA, 
               main=paste("Social Network", graph_title))
